@@ -1,2 +1,3 @@
 Git是分布式版本控制系统
 Git是GNU开源免费软件
+Git有一个暂存区叫做Stage
